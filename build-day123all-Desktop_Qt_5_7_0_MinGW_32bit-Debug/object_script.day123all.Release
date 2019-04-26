@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\mainwindow2.o
+./release\mainwindow3.o
+./release\qrc_qq.o
+./release\qrc_wangye.o
+./release\qrc_daozhang.o
+./release\moc_mainwindow.o
+./release\moc_mainwindow2.o
+./release\moc_mainwindow3.o
+);
